@@ -56,7 +56,7 @@ Socket programming finds applications in various domains, including web developm
 ```
 NAME : ROSHINI S
 REG NO : 212223240142
-
+```
 ## client.py
 ```
 import socket
